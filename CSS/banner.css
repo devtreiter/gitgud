@@ -1,0 +1,66 @@
+
+#iframe {
+  height:1000px;
+}
+ul { 
+list-style: none; 
+opacity:.9;
+}
+
+.list {
+  position:relative;
+  background-color:#333;
+  width:33%;
+  height:290px;
+  overflow-y:scroll;
+  overflow-x:hidden;  
+}
+
+.list li a {
+  padding:10px;
+  max-width:100%;
+  text-align:center;
+  display: block;
+  border: solid 1px #222;
+  color: #4CAF50;
+}
+
+.thread-listpub{
+  left:10px;
+}
+
+.thread-listscsgo{
+  float:right;
+  bottom:290px;
+}
+.thread-listrl{
+  float:right;
+  bottom:290px;
+}
+
+.slider {
+	width: auto;
+	margin: auto auto;
+  z-index:-1
+	
+}
+
+.slider-wrapper {
+	width: 100%;
+	height: 500px;
+	position: absolute;
+}
+
+.slide {
+	float: left;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	transition: opacity 3s linear;
+}
+
+.slider-wrapper > .slide:first-child {
+	opacity: 1;
+}
+

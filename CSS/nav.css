@@ -1,0 +1,33 @@
+
+#nav ul
+{
+    
+    height: 60px;
+    width: 1280px;
+    list-style-type: none;
+    padding-left: 0;
+    overflow: hidden;
+    background-color: black;
+
+    
+}
+#nav li
+{
+    padding-top: 10px;  
+    padding-bottom: 10px;     
+    float: left;
+}
+#nav li a
+{
+    border-bottom:solid 5px black;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 18px;
+    color: gray;
+}
+#nav li a:hover {
+    background-color: #4CAF50;
+}
+#nav .active {
+       background-color: transparent;
+}
