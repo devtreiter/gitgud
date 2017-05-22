@@ -31,7 +31,7 @@ body {
     height: 180px;
     border: solid 10px black;
 }
-#stream{
+.stream{
     position: relative;
     float: left;
     display: inline-flex;
