@@ -42,7 +42,7 @@ body {
  
 }
 #streams img{
-    
+    float:right;    
 
 }
 #streams2{
@@ -54,7 +54,7 @@ body {
 
 }
 #streams3{
-   
+   float:right;
 
 }
 #streams3 img{
