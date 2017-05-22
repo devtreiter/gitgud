@@ -32,6 +32,8 @@ body {
 }
 #streams iframe{
    position: relative;
+   display:flex;
+   flex-direction:row;
    width:33%;
 }
 #streams img{
