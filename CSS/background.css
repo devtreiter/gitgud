@@ -39,57 +39,36 @@ body {
 }
 #streams{
    float:left;
-   position:relative;
-   bottom:10px;
-   left:320px;
+ 
 }
 #streams img{
     position:relative;
-    width:250px;
-    height:130px;
-    left:115px;
+
 }
 #streams2{
-   float:right;
    position:relative;
-   bottom:10px;
-   right:300px;
+
 }
 #streams2 img{
     position:relative;
-    width:250px;
-    height:130px;
-    left:115px;
+
 }
 #streams3{
-   float:left;
    position:relative;
-   top:420px;
-   right:202px;
+
 }
 #streams3 img{
     position:relative;
-    width:250px;
-    height:130px;
-    left:115px;
 }
 #streams4{
-   float:right;
    position:relative;
-   bottom:10px;
-   right:300px;
+
 }
 #streams4 img{
     position:relative;
-    width:250px;
-    height:130px;
-    left:115px;
+
 }
 #socialMedia{
     position:relative;
-    display:flex;
-    height:200px;
-    bottom:20px;
-    width:200px;
-    left:200px;
+ 
 }
