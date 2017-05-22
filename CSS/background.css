@@ -30,7 +30,7 @@ body {
     height: 180px;
     border: solid 10px black;
 }
-#streams{
+#stream{
  position:relative;
  left:50%;   
 }
