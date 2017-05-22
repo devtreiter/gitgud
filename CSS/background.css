@@ -35,7 +35,5 @@ body {
  
 }
 #streams img{
-    position:absolute;
-    display:flex;
-    flex-flow: row wrap;
+   
 }
