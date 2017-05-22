@@ -4,6 +4,7 @@
 }
 body {
     background-image: url("websitebackground.jpg");
+    background-size: cover;
     }
 #wrapper{
     margin-bottom: 400px;
