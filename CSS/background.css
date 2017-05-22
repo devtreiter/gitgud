@@ -42,30 +42,6 @@ body {
  
 }
 #streams img{
-        
-
+    display:flex;
+    flex-flow: row wrap;
 }
-#streams2{
-   
-
-}
-#streams2 img{
-    
-
-}
-#streams3{
-  
-
-}
-#streams3 img{
-    
-}
-#streams4{
-   
-
-}
-#streams4 img{
-    
-
-}
-
