@@ -31,6 +31,8 @@ body {
     height: 180px;
     border: solid 10px black;
 }
-#streams{
-      
+#stream{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;   
 }
