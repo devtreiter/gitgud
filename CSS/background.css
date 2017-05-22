@@ -31,7 +31,7 @@ body {
     height: 180px;
     border: solid 10px black;
 }
-#stream iframe{
+#streams{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;   
