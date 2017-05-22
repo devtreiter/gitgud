@@ -32,7 +32,10 @@ body {
     border: solid 10px black;
 }
 #stream{
-    display: flex;
+    position: relative;
+    float: left;
+    display: inline-flex;
     flex-flow: row wrap;
-    justify-content: space-around;   
+    justify-content: center;    
+    top: 40px;  
 }
