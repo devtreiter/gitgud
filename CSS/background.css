@@ -32,7 +32,5 @@ body {
     border: solid 10px black;
 }
 #streams{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;   
+      
 }
