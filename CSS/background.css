@@ -34,8 +34,9 @@ body {
    position: relative;
    display:flex;
    flex-direction:row;
-   justify-content:center;
    width:33%;
+   top:5%;
+   right:5%;
 }
 #streams img{
    
