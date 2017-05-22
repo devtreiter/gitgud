@@ -30,11 +30,8 @@ body {
     height: 180px;
     border: solid 10px black;
 }
-#streams iframe{
+#streams{
    position: relative;
    top:5%;
    right:5%;
-}
-#streams img{
-   
 }
