@@ -31,7 +31,8 @@ body {
     border: solid 10px black;
 }
 #streams{
-   width: 33%;
+   display:flex;
+   flex-flow:row wrap; 
  
 }
 #streams img{
