@@ -18,6 +18,7 @@
     padding-top: 10px;  
     padding-bottom: 10px;     
     float: left;
+    border-bottom: solid 1px #999;
 }
 #nav li a
 {
@@ -26,7 +27,7 @@
     text-decoration: none;
     padding: 18px;
     color: white;
-    border-bottom: solid 1px #999;
+    
 }
 #nav li a:hover {
     background-color: #4CAF50;
