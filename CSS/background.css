@@ -67,8 +67,9 @@ tr:nth-child(1){
 }
 
 th, td {
-  text-align: left;
+  text-align: center;
   padding-left: 10px;
+  color: white;
 }
 
 th:nth-child(1), td:nth-child(1) {
