@@ -19,6 +19,7 @@
     padding-bottom: 10px;     
     float: left;
     border-right: solid 1px #999;
+    border-bottom: solid 1px #999;
 }
 #nav li a
 {
