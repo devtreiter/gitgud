@@ -9,6 +9,7 @@
     overflow: hidden;
     background-color: transparent;
     
+    
 
     
 }
@@ -25,6 +26,7 @@
     text-decoration: none;
     padding: 18px;
     color: white;
+    border-bottom: solid 1px #999;
 }
 #nav li a:hover {
     background-color: #4CAF50;
