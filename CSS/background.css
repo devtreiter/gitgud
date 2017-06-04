@@ -61,7 +61,7 @@ tr:hover{
 }
 
 tr:nth-child(1){
-  background: gold;
+  background: #4CAF50;
   font-weight: bold;
 }
 
