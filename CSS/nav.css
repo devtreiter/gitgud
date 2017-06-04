@@ -8,6 +8,8 @@
     padding-left: 0;
     overflow: hidden;
     background-color: transparent;
+    display: flex;
+    justify-content:center;
     
     
 
