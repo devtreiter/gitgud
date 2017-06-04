@@ -10,6 +10,7 @@
     background-color: transparent;
     display:flex;
     justify-content:center;
+    border-bottom: solid 1px #999;
 
     
 }
