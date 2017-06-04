@@ -42,6 +42,8 @@ body {
 
 table {
   width: 100%;
+  position: fixed;
+  margin-top: 50px;
 }
 
 table, th, td {
