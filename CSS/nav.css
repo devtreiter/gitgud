@@ -7,13 +7,7 @@
     list-style-type: none;
     padding-left: 0;
     overflow: hidden;
-    background-color: transparent;
-    display: flex;
-    justify-content:center;
-    
-    
-
-    
+    background-color: #2f2f2f;    
 }
 #nav li
 {
